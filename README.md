@@ -11,7 +11,7 @@ Outside of coursework and internships I keep a homelab I tinker with when I have
 
 ### stats
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitp30&show_icons=true&theme=radical&cache_seconds=1800)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rohitp30&custom_title=Rohit%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=rohitp30&custom_title=Rohit%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)
 
 ### say hi!
 
