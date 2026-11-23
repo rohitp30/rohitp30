@@ -16,5 +16,5 @@ Outside of coursework and internships I keep a homelab I tinker with when I have
 ### say hi!
 
 - 📧 [me@rpenta.com](mailto:me@rpenta.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohitp30)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohitp0)
 - 🌐 [rpenta.com](https://rpenta.com)
